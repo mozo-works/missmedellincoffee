@@ -1,0 +1,17 @@
+---
+
+google-families:
+  - 'Quicksand:100'
+  - 'Roboto:100'
+  - 'Lato:100,900'
+
+custom:
+  - font-family: 'Noto Sans KR:n1,n4,n7'
+    url: //fonts.googleapis.com/earlyaccess/notosanskr.css
+
+  - font-family: 'Nanum Square:n4,n7'
+    url: //cdn.jsdelivr.net/font-nanumsquare/1.0.0/nanumsquare.css
+
+  - font-family: 'FontAwesome'
+    url: //maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+

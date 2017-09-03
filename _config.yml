@@ -1,0 +1,23 @@
+title: Miss Medellin coffee
+description:
+catchphrase: Gift from colombia
+
+ko:
+  title: 미쓰 메델린 커피
+  description: 콜롬비아에서 재배되는 36가지 종류 커피빈중 최고의 풍미와 맛을 지닌 생두만을 선별하여 100% 아라비카 생두를 전세계로 수출하는 회사입니다.
+  catchphrase: 콜롬비아에서 온 선물
+
+baseurl: ''
+url: ''
+
+timezone: Asia/Seoul
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+sass:
+  sass_dir: _scss
+  style: compressed
