@@ -2,7 +2,11 @@
 layout: page
 ---
 
-![1](/images/1w.jpg)
+<div class="text-center" style="background: url(/images/IMG_1525.jpg) no-repeat; background-size: cover;">
+  <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+  <h1 style="color: #fff;">"Gift from colombia"</h1>
+  <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+</div>
 
 ## Miss medellin coffee?
 
