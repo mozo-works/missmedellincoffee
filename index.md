@@ -2,10 +2,10 @@
 layout: page
 ---
 
-<div class="text-center" style="background: url(/images/IMG_1525.jpg) no-repeat; background-size: cover;">
-  <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-  <h1 style="color: #fff;">"Gift from colombia"</h1>
-  <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<div class="jumbotron text-center py-5 mt-3" style="background: url(/images/IMG_1525.jpg) no-repeat; background-size: cover;">
+  <p>&nbsp;</p>
+  <h1 class="display-4 text-white">"Gift from colombia"</h1>
+  <p>&nbsp;</p>
 </div>
 
 ## Miss Medellin coffee
@@ -14,13 +14,13 @@ Miss Medellin coffee is a company that exports 100% arabica green beans to all o
 
 Miss Medellin coffee has a coffee plantation in Antioquia, Colombia, famous for its coffee plantation, making Colombian coffee more affordable and trying to discover the world of special coffee in Colombia.
 
-![2](/images/2w.jpg)
+![2](/images/2w.jpg){: .img-fluid}
 
 ## What we do?
 
 Miss Medellin coffee tries to discover the unique and new flavors throughout Colombia and to inform coffee lovers around the world about it.
 
-![3](/images/3w.jpg)
+![3](/images/3w.jpg){:.img-fluid}
 
 ## Area
 
