@@ -2,35 +2,42 @@
 layout: page
 ---
 
-<div class="jumbotron text-center py-5 mt-3" style="background: url(/images/IMG_1525.jpg) no-repeat; background-size: cover;">
+<div id="cover" class="jumbotron text-center py-5 mt-3">
   <p>&nbsp;</p>
-  <h1 class="display-4 text-white">"Gift from colombia"</h1>
+  <span class="display-4">“Gift from colombia”</span>
   <p>&nbsp;</p>
 </div>
 
-## Miss Medellin coffee
+## Miss Medellin Coffee
 
-Miss Medellin coffee is a company that exports 100% arabica green beans to all over the world by selecting only the best flavors of 36 varieties of coffee beans grown in Colombia
+“Miss Medellin Coffee” exports 100% Arabica Green coffee beans all around the world, selecting only the best flavors from 36 different varieties of colombian-grown coffee beans.
 
-Miss Medellin coffee has a coffee plantation in Antioquia, Colombia, famous for its coffee plantation, making Colombian coffee more affordable and trying to discover the world of special coffee in Colombia.
+“Miss Medellin Coffee” -owns and operates a plantation in Antioquia, Colombia, in an effort to make top quality Colombian coffee more affordable and accessable to the consumers.
 
-![2](/images/2w.jpg){: .img-fluid}
+![Coffee bags](/images/2-coffee-bag.jpg){: .img-fluid}
 
 ## What we do?
 
-Miss Medellin coffee tries to discover the unique and new flavors throughout Colombia and to inform coffee lovers around the world about it.
-
-![3](/images/3w.jpg){:.img-fluid}
+“Miss Medellin Coffee” is devoted to discovering new and unique flavors from all around Colombia, and to make it available to coffee lovers around the world.
 
 ## Area
 
-To find a new taste of coffee from Sierra nevada, Valle del cauca, Camas, Risaralda, Santender, Cundina marca and other small farms in the region, Miss Medellin coffee has a branch office in Canada, USA, Korea, Australia and so on in order to inform taste in many places in the world.
+To provide the highest quality of coffee beans to customers around the world “Miss Medellin Coffee” has branch offices around the wold including Canada, USA, South Korea and Australia.
 
-The world's beech vendors provide consumers with information to at least identify the freshness of the fresh beans from at least the point of New crop and the time of shipment from Colombia (air, sea) In line with the trends of global consumers seeking specialty coffee, we quickly share detailed stories of growers and growers on new varieties with consumers. In addition, roasted locally grown soybeans are roasted for the best tasting, providing more information on roasting.
+<div class="row">
+  <div class="col"><img src="/images/3-shop.jpg" alt="Shop" class="img-fluid"></div>
+  <div class="col"><img src="/images/4-lab.jpg" alt="Shop" class="img-fluid"></div>
+</div>
 
-- Company Name: Bean Marche co.
-- Brand Name: Miss Medellin Coffee
-- Head office: Medellin Antioquia Colombia CEO / Jay Huh
+The world’s best vendors provide critical information to customers, including dates of harvest and shipment, to ensure freshness and quality. Here at “Miss Medellin Coffee” we provide all the neccessary information that coffee connoisseur around the world expect from the top coffee producers.
+
+- Company name: Bean Marche co., ltd.
+- Brand name: Miss Medellin Coffee
+
+- Head office:
+  + Medellin Antioquia Colombia
+  + CEO / Jay Huh
+
 - World branch office:
   + South korea: Edward Hong
   + Canada: Yordan Builes
