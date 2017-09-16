@@ -2,10 +2,10 @@
 layout: page
 ---
 
-<div id="cover" class="jumbotron text-center py-5 mt-3">
-  <p>&nbsp;</p>
+<div id="cover" class="jumbotron text-center py-6 mt-3">
+  <p>&nbsp;</p><p>&nbsp;</p>
   <span class="display-4">“Gift from colombia”</span>
-  <p>&nbsp;</p>
+  <p>&nbsp;</p><p>&nbsp;</p>
 </div>
 
 ## Miss Medellin Coffee
@@ -43,4 +43,4 @@ The world’s best vendors provide critical information to customers, including 
   + Canada: Yordan Builes
   + Australia: David Camastra
 
-The first store in Canada tronto will open in early March 2018, South Korea Seoul, Australia Sydney etc. Flagship store will be opened sequentially.
+The first store in Canada toronto will open in early March 2018, South Korea Seoul, Australia Sydney etc. Flagship store will be opened sequentially.
