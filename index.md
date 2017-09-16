@@ -22,7 +22,7 @@ layout: page
 
 ## Area
 
-To provide the highest quality of coffee beans to customers around the world “Miss Medellin Coffee” has branch offices around the wold including Canada, USA, South Korea and Australia.
+To provide the highest quality of coffee beans to customers around the world “Miss Medellin Coffee” has branch offices around the world including Canada, USA, South Korea and Australia.
 
 <div class="row">
   <div class="col"><img src="/images/3-shop.jpg" alt="Shop" class="img-fluid"></div>
